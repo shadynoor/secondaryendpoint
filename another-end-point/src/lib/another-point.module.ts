@@ -1,5 +1,5 @@
-import { NgModule } from '@angular/core';
-import { AnotherComponent } from './another.component';
+import { NgModule } from "@angular/core";
+import { AnotherComponent } from "./another-point.component";
 
 @NgModule({
   declarations: [AnotherComponent],
